@@ -1,0 +1,32 @@
+[
+  {
+    "transaction_id": "TXN-1001",
+    "account_id": "ACC-001",
+    "merchant": "Metro Grocery",
+    "amount": 84.27,
+    "currency": "USD",
+    "date": "2026-09-01",
+    "status": "posted",
+    "category": "groceries"
+  },
+  {
+    "transaction_id": "TXN-1002",
+    "account_id": "ACC-001",
+    "merchant": "Northstar Electronics",
+    "amount": 249.99,
+    "currency": "USD",
+    "date": "2026-09-05",
+    "status": "posted",
+    "category": "electronics"
+  },
+  {
+    "transaction_id": "TXN-1003",
+    "account_id": "ACC-002",
+    "merchant": "City Transit",
+    "amount": 32.50,
+    "currency": "USD",
+    "date": "2026-09-08",
+    "status": "posted",
+    "category": "transportation"
+  }
+]
